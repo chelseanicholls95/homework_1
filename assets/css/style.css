@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header and nav bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,16 +47,17 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* main image */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+}
+
+p {
+    font-size: 16px;
 }
 
 .float-left {
@@ -194,6 +196,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
