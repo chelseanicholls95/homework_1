@@ -18,22 +18,22 @@ I have made the following changes to the style.css file:
 
 ## Screenshots 
 HTML screenshots
-![alt text](assets\screenshots\HTML1.png "HTML screenshot")
-![alt text](assets\screenshots\HTML2.png "HTML screenshot")
-![alt text](assets\screenshots\HTML3.png "HTML screenshot")
-![alt text](assets\screenshots\HTML4.png "HTML screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/HTML1.png?raw=true "HTML screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/HTML2.png?raw=true "HTML screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/HTML3.png?raw=true "HTML screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/HTML4.png?raw=true "HTML screenshot")
 
 CSS screenshots 
-![alt text](assets\screenshots\CSS1.png "CSS screenshot")
-![alt text](assets\screenshots\CSS2.png "CSS screenshot")
-![alt text](assets\screenshots\CSS3.png "CSS screenshot")
-![alt text](assets\screenshots\CSS4.png "CSS screenshot")
-![alt text](assets\screenshots\CSS5.png "CSS screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/CSS1.png?raw=true "CSS screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/CSS2.png?raw=true "CSS screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/CSS3.png?raw=true "CSS screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/CSS4.png?raw=true "CSS screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/CSS5.png?raw=true "CSS screenshot")
 
 Deployed site
-![alt text](assets\screenshots\deployed1.png "Deployed site screenshot")
-![alt text](assets\screenshots\deployed2.png "Deployed site screenshot")
-![alt text](assets\screenshots\deployed3.png "Deployed site screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/deployed1.png?raw=true "Deployed site screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/deployed2.png?raw=true "Deployed site screenshot")
+![alt text](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/deployed3.png?raw=true "Deployed site screenshot")
 
 
 ## Link to the deployed application 
