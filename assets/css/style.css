@@ -1,3 +1,4 @@
+/* universal styling */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,7 +9,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/* header and nav bar */
+/* header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -26,6 +27,7 @@ body {
   color: #d9dcd6;
 }
 
+/* nav bar */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -96,7 +98,7 @@ p {
   margin-left: 25px;
 }
 
-/* side bar content */
+/* sidebar content */
 .benefits {
   margin-right: 20px;
   padding: 20px;
