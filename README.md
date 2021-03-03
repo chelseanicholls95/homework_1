@@ -19,7 +19,9 @@ I have made the following changes to the style.css file:
 - Changed the selectors to match the semantic tags used in the HTML document.
 - Condensed declaration blocks with the same properties and values into one declaration.
 
-## Screenshots
+## Screenshot
+
+![deployed website](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/deployed.png?raw=true)
 
 ## Link to the deployed application
 
