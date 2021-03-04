@@ -25,4 +25,12 @@ I have made the following changes to the style.css file:
 
 ## Link to the deployed application
 
-https://chelseanicholls95.github.io/homework_1/
+Click [here](https://chelseanicholls95.github.io/homework_1/) to view project.
+
+## Getting Started
+
+```
+git clone git@github.com:chelseanicholls95/homework_1.git
+cd homework_1
+code .
+```
