@@ -19,7 +19,13 @@ I have made the following changes to the style.css file:
 - Changed the selectors to match the semantic tags used in the HTML document.
 - Condensed declaration blocks with the same properties and values into one declaration.
 
-## Screenshot
+## Screenshots
+
+### Before
+
+![before](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/before.png?raw=true)
+
+### After
 
 ![deployed website](https://github.com/chelseanicholls95/homework_1/blob/master/assets/screenshots/deployed.png?raw=true)
 
