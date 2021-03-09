@@ -31,12 +31,12 @@ I have made the following changes to the style.css file:
 
 ## Link to the deployed application
 
-Click [here](https://chelseanicholls95.github.io/homework_1/) to view project.
+Click [here](https://chelseanicholls95.github.io/horiseon_website_refactor/) to view project.
 
 ## Getting Started
 
 ```
-git clone git@github.com:chelseanicholls95/homework_1.git
+git clone git@github.com:chelseanicholls95/horiseon_website_refactor.git
 cd homework_1
 code .
 ```
